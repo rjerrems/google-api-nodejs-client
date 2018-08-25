@@ -103,7 +103,7 @@
     "@types/url-template": "^2.0.28",
     "@types/uuid": "^3.4.3",
     "assert-rejects": "^1.0.0",
-    "axios": "^0.18.0",
+    "axios": "git://github.com/rjerrems/axios.git#proxy-fix-0.18.0",
     "clang-format": "^1.2.3",
     "codecov": "^3.0.2",
     "copyfiles": "^2.0.0",
